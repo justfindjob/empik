@@ -1,0 +1,1 @@
+To run this application you need to install postgresql and create database empik with user postgres and password postgres
